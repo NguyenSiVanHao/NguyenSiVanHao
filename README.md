@@ -125,7 +125,7 @@
 ## 💭 Developer Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=It's%20not%20a%20bug,%20it's%20an%20undocumented%20feature.&author=Anonymous"/>
 </div>
 
 ## 🌐 Let's Connect & Collaborate
