@@ -22,7 +22,7 @@
 - 🔭 **Currently working on:** Modern React applications with TypeScript
 - 🌱 **Learning:** Next.js, Angular.js, Flutter and advanced React patterns  
 - 💡 **Passionate about:** Creating intuitive user interfaces and optimizing performance
-- 🎯 **2024 Goals:** Contribute to open source and master full-stack development
+- 🎯 **2026 Goals:** Contribute to open source and master full-stack development
 - 📫 **Reach me:** [Facebook](https://www.facebook.com/hao.van.1466?mibextid=LQQJ4d) | [Email](mailto:VH01062023@gmail.com)
 - ⚡ **Fun fact:** I can spend hours perfecting a single CSS animation!
 
